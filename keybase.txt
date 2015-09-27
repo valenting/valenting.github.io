@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/valentin_gosu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://xn--gou-2lb.ro
+  * I am valentin_gosu (https://keybase.io/valentin_gosu) on keybase.
+  * I have a public key with fingerprint B8D1 5987 E5F3 BD37 1922  85B2 1324 BC3F ABF3 8B5B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.20"
+        },
+        "key": {
+            "eldest_kid": "01012debbc61d5e09122212621b4f7d542757182384b905ee3a8baf8b0de81a7ed8e0a",
+            "fingerprint": "b8d15987e5f3bd37192285b21324bc3fabf38b5b",
+            "host": "keybase.io",
+            "key_id": "1324bc3fabf38b5b",
+            "kid": "01012debbc61d5e09122212621b4f7d542757182384b905ee3a8baf8b0de81a7ed8e0a",
+            "uid": "c67deb713224cb3d1677859dd6eabe19",
+            "username": "valentin_gosu"
+        },
+        "service": {
+            "hostname": "xn--gou-2lb.ro",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1443312110,
+    "expire_in": 157680000,
+    "prev": "537a78d8e98f5ffb0cd1849272d2a3cb7a765c153c55b9e167ae1455e5fa0f2f",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUn9QFGUYPg6E4QSEgYKQCtYrk+Dab3/c7qGNE2ojo6kUWGZxs9/ut8ficXvs
+/Qi8SBOCQUettOFHgYk/GONyprGAIZqpGYE5Ic2gEkIYIiSUNEdKg0HaZWimZvqz
+769v5n3e532e533fjgzW6YNijR1rm+8c2BnUMwl128PATR8GZaEEy/BhvF1CDrf2
+c3CFCMvAdqESyLmQSZKTHbKATAWu5EVMGuZFikuSHSoKN7EmAsdK0zS81o3sAnK5
+rbskQasCHBACgpA3A4FGuAUQBAEIMwEgJTICTREMzQCWIFkKWnAaIZJjISeyEBcQ
+CzgGCSzCOXWgKDlsSHEqkiYRg6wAaAvLIFokoUAywEIQLA0JQBIU5EmRgyLJQhqq
+jfmyy/0vM9iCUuuCvP/A/8+6PQt0vJlRyRh1HEHxkBSAmWFY2iIIZsRBBCwa0IWU
+xeC9nF1NWXJYbbLLoyWrlrwSj7R0NTuLsGJHerpN9qQTdmhSNFtORXbLvGxXa/lu
+tzNDa3WXODXsawhaF1msUHIIapoN/1wjUKG8W9J4AUWRJCAAwNMwVOyUFGSVNATN
+mFlcfdoc5FU5aZLhGFY1amFFWhQhzguApSwEQwgER/JQrZppHtAkT9PQglTPHAIU
+TatL43CREDHNWJFDxjIoVSdnUyldks3BuT0Kwkqr9EkhuiC9LnSJXrtTnSE8+u/j
+HbuzbD57rvpq0Dt9p9uuDf00b7z80NQvP9cd3JMZVZVyaaN998akUc8O3/3wwcAo
+GXJDf6Uq5c2Y2aHahC7JOR92eC5rJOI8nqeYn0xH5zatO9rXHJv6Su5EuzfkkyJD
+Xe/OsB7diSsDPcXlkVHhB97LMjzs732BN52MG01tL5E+G+j0VjLDM/da3tgW333k
+6cf6v2rdWjFxOr4oYTbOmOXr+i5UNH40qdsSdsKs1Kzv2LO9Uv698tvSRs8PJt9I
+ni+/rP/HhvcNqbm/5Rw/g99rHCEU0+61m1fNFW/9umqlXM5FZd89i2pb953/4HC7
+vjb4y1unGruf8A9LI1bmZMXqB7Mb10Tgct/txOMrOsXRgm777DC59My2pwYGYlIm
+eVGeXj5+jLDHXEjqGmtb4x/JqTiy8mj1uXfXvR6W+uGml4Le2jIe0ba391pOU/V1
+5lS0LdZwaWIq8Hm2lPl96+Znyi58fGj5QUedF2UWFv7alLzPb4qlvuhMDN0QXbN6
+uD53xt9xzLKq+e44bXhxQ7zIBpfNt+8IFIwvu27s6Oi7mjXd+iyTMQz+HA103R6M
++IZqiVtquLg+f0aBgbOPLGkmuYKJ3F5DXh27d6o7sjLen3izfurTR29cDG68XP7c
+7PT+sSb98w19f6youZ/ABm71vJxLmh+YaxlU6o2erqFXjUMj/e5eQ0jzocdtfwE=
+=wdAb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/valentin_gosu
+
+==================================================================
